@@ -20,4 +20,5 @@ Y disfrutar :D
 
 <img src=https://github.com/WhBeatZ/CryptoWh/blob/main/files/foto1.png />
 
+<img src=https://github.com/WhBeatZ/CryptoWh/blob/main/files/foto2.png />
 
