@@ -15,3 +15,9 @@ Ver el valor de la criptomoneda en tiempo real, programado por el famoso Hacker 
 `chmod +x *`
 
 `bash cryptowh.sh`
+
+Y disfrutar :D
+
+<img src=https://github.com/WhBeatZ/CryptoWh/blob/main/files/foto1.png height="100" />
+
+
